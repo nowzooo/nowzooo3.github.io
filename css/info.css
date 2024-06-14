@@ -5,6 +5,7 @@ body{
     width: 100%;
     background-color: #02FF02;
     overflow-x: hidden;
+    font-family: "Lalezar", system-ui;
 }
 #container {
     position: relative;
